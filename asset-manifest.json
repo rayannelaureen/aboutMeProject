@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aboutMeProject.git/static/css/main.41aee633.css",
-    "main.js": "/aboutMeProject.git/static/js/main.88c4a03d.js",
-    "static/js/453.6c02d200.chunk.js": "/aboutMeProject.git/static/js/453.6c02d200.chunk.js",
-    "static/media/smiling-businesswoman-working-laptop.jpg": "/aboutMeProject.git/static/media/smiling-businesswoman-working-laptop.c6746fe8677c4f7375d3.jpg",
-    "index.html": "/aboutMeProject.git/index.html",
-    "main.41aee633.css.map": "/aboutMeProject.git/static/css/main.41aee633.css.map",
-    "main.88c4a03d.js.map": "/aboutMeProject.git/static/js/main.88c4a03d.js.map",
-    "453.6c02d200.chunk.js.map": "/aboutMeProject.git/static/js/453.6c02d200.chunk.js.map"
+    "main.css": "/aboutMeProject/static/css/main.41aee633.css",
+    "main.js": "/aboutMeProject/static/js/main.ccf0a31a.js",
+    "static/js/453.6c02d200.chunk.js": "/aboutMeProject/static/js/453.6c02d200.chunk.js",
+    "static/media/smiling-businesswoman-working-laptop.jpg": "/aboutMeProject/static/media/smiling-businesswoman-working-laptop.c6746fe8677c4f7375d3.jpg",
+    "index.html": "/aboutMeProject/index.html",
+    "main.41aee633.css.map": "/aboutMeProject/static/css/main.41aee633.css.map",
+    "main.ccf0a31a.js.map": "/aboutMeProject/static/js/main.ccf0a31a.js.map",
+    "453.6c02d200.chunk.js.map": "/aboutMeProject/static/js/453.6c02d200.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41aee633.css",
-    "static/js/main.88c4a03d.js"
+    "static/js/main.ccf0a31a.js"
   ]
 }
