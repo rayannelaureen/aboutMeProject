@@ -1,0 +1,26 @@
+header {
+  background-color: #f9f9f9; /* fundo claro */
+  padding: 1rem 0;
+  border-bottom: 1px solid #ddd; /* linha sutil abaixo do header */
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center; /* centraliza os itens */
+  gap: 3rem; /* espaçamento entre os links */
+  margin: 0;
+  padding: 0;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #222; /* cor do texto */
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color 0.3s ease;
+}
+
+nav li a:hover {
+  color: #0f172a; /* cor mais escura ao passar o mouse */
+}
